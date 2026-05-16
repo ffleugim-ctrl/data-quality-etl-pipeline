@@ -1,5 +1,5 @@
 # data-quality-etl-pipeline
-# Pipeline Corporativa de ETL e Data Quality com Python &amp; Pandas 
+
 # Pipeline Corporativa de ETL e Data Quality com Python & Pandas
 
 Este projeto simula uma pipeline real de engenharia e análise de dados focada em **Quality Assurance (Garantia de Qualidade)** e **Higienização de Dados (Data Cleaning)** para cenários de Operações Logísticas e Recursos Humanos.
